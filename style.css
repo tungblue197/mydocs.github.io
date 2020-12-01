@@ -1,0 +1,20 @@
+.header{
+    width: 100% !important;
+}
+.top-bar{
+    display: flex;
+    width: 100%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.docs-login{
+    display: flex;
+}
+
+.jumbotron.banner-container{
+    padding: 0;
+}
+.max-width{
+    width: 100%;
+}
